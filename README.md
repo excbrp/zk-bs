@@ -1,4 +1,4 @@
-battleship game using zero knowledge proofs and hash functions to commit to battleship placements whilst publicly committing to them. Created as part of my MSc. 
+battleship game using zero knowledge proofs and hash functions to conceal battleship placements whilst publicly committing to them. Created as part of my MSc. 
 
 it was my first rust project so go easy on me :)
 
